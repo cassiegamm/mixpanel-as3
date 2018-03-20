@@ -1,6 +1,6 @@
 Official Mixpanel AS3 API
 =========================
-Support for the Actionscript 3 library will cease as of April 19th, 2018. If you have any questions about the deprecation of this library please contact [our support team](https://help.mixpanel.com/hc/en-us/requests/new?ticket_form_id=685608).
+Support for the Actionscript 3 library will cease as of April 21st, 2018. If you have any questions about the deprecation of this library please contact [our support team](https://help.mixpanel.com/hc/en-us/requests/new?ticket_form_id=685608).
 
 
  * ASDocs - http://mixpanel.github.com/mixpanel-as3/
